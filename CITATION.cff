@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Criterion-Explicit Reproducibility of Matrix-Remodelling Candidates in Osteoarthritis Synovium"
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Kaixuan
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Wang
+    given-names: Xinle
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Fu
+    given-names: Yu
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Liu
+    given-names: Ziwei
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Zhang
+    given-names: Danning
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Zhang
+    given-names: Feng
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Lin
+    given-names: Xingxing
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+  - family-names: Dong
+    given-names: Baoqiang
+    affiliation: "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+license: MIT
+abstract: >-
+  Analysis code accompanying a criterion-explicit reproducibility study of matrix-remodelling
+  candidate genes in osteoarthritis synovium. It covers per-cohort differential expression,
+  merged effects and leave-one-cohort-out re-ranking, single-cell localisation, the cross-linker
+  family under one criterion framework, and cis-eQTL Mendelian randomisation checks.

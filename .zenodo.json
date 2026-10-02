@@ -1,0 +1,42 @@
+{
+  "title": "Criterion-Explicit Reproducibility of Matrix-Remodelling Candidates in Osteoarthritis Synovium — analysis code",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "description": "<p>Analysis code accompanying the manuscript <em>Criterion-Explicit Reproducibility of Matrix-Remodelling Candidates in Osteoarthritis Synovium</em>. The code covers per-cohort differential expression, merged effects and leave-one-cohort-out re-ranking, donor-resolved single-cell localisation, the cross-linker family under one criterion framework, and <em>cis</em>-eQTL Mendelian randomisation checks. All primary data are public (GEO; Alasoo and GTEx eQTL portals).</p>",
+  "creators": [
+    {
+      "name": "Zhang, Kaixuan",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Wang, Xinle",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Fu, Yu",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Liu, Ziwei",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Zhang, Danning",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Zhang, Feng",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Lin, Xingxing",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    },
+    {
+      "name": "Dong, Baoqiang",
+      "affiliation": "Liaoning University of Traditional Chinese Medicine, Shenyang, Liaoning, China; Yiwu Central Hospital, Yiwu, Zhejiang, China"
+    }
+  ],
+  "keywords": ["osteoarthritis", "synovium", "matrix remodelling", "reproducibility", "meta-analysis", "single-cell"]
+}

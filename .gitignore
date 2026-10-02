@@ -1,0 +1,16 @@
+# Data — download from GEO and the eQTL portals; not redistributed here
+data/
+*.h5ad
+*.rds
+*.RData
+
+# Frozen inputs and result tables (delivered as the paper's source data)
+*.csv
+!MANIFEST.sha256
+
+# Scratch
+.DS_Store
+__pycache__/
+*.py[cod]
+.Rhistory
+.Rproj.user/
